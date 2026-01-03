@@ -440,11 +440,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/researchlab/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/researchlab/news/announcement_2/";
             },},{id: "news-dr-yangchao-liao-has-joined-the-school-of-civil-and-environmental-engineering-at-changsha-university-of-science-and-technology-as-a-lecturer-the-new-research-group-website-is-now-officially-online-sparkles-smile",
           title: 'Dr. Yangchao Liao has joined the School of Civil and Environmental Engineering at...',
           description: "",
