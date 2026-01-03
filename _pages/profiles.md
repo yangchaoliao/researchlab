@@ -14,15 +14,19 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-  - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Dr. Yangchao Liao (廖杨超)</p>
+      <p>Principal Investigator</p>
+      <p>Lecturer</p>
+      <p>Department of Mechanics</p>
+      <p>School of Civil and Environmental Engineering</p>
+      <p>Changsha University of Science and Technology</p>
+      <p>liaoyc@csust.edu.cn>dpd
+ #  - align: left
+ #    image: prof_pic.jpg
+ #    content: about_einstein.md
+ #    image_circular: false # crops the image to make it circular
+ #    more_info: >
+ #      <p>555 your office number</p>
+ #      <p>123 your address street</p>
+ #      <p>Your City, State 12345</p>
 ---
