@@ -1,8 +1,7 @@
 ---
 layout: profiles
 permalink: /People/
-title: People
-description: Members of the group
+title: Principal Investigator
 nav: true
 nav_order: 7
 
@@ -18,13 +17,23 @@ profiles:
       <p>Dr. Yangchao Liao (廖杨超)</p>
       <p>Lecturer</p>
       <p>liaoyc@csust.edu.cn</p>
+---
+
+---
+layout: profiles
+permalink: /People/
+title: Graduate Student
+nav: true
+nav_order: 7
+
+profiles:
   - align: left
     image: Ms Genius.jpg
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Ms. Genius</p>
-      <p>Graduate Student</p>
+      <p>Engineering Mechanics</p>
       <p>ms_genius@csust.edu.cn</p>
   - align: left
     image: Mr Genius.jpg
@@ -32,6 +41,5 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Mr. Genius</p>
-      <p>Graduate Student</p>
-      <p>mr_genius@csust.edu.cn</p>
+      <p>Engineering Mechanics</p>
 ---
