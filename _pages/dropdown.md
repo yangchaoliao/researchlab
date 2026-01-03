@@ -8,6 +8,4 @@ children:
   - title: News
     permalink: /news/
   - title: divider
-  - title: Photo Gallery
-    permalink: /photo_gallery/
 ---
