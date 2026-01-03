@@ -7,9 +7,21 @@ Mailing Address:<br>
 湖南省长沙市雨花区万家丽南路2段960号长沙理工大学土木与环境工程学院A310室
 
 Degree Information:<br>
-Doctor of Philosophy, Civil Engineering, North Dakota State University, USA (2020.01 - 2023.08)<br>
-Master of Engineering, Architecture and Civil Engineering, Beihang University, PR China (2015.09 - 2018.03)<br>
-Bachelor of Engineering, Engineering Mechanics, Changsha University of Science and Technology, PR China (2010.9 - 2014.06)
+<ul>
+  <li>
+    Doctor of Philosophy, Civil Engineering, North Dakota State University, USA
+    (2020.01 – 2023.08)
+  </li>
+  <li>
+    Master of Engineering, Architecture and Civil Engineering, Beihang University, PR China
+    (2015.09 – 2018.03)
+  </li>
+  <li>
+    Bachelor of Engineering, Engineering Mechanics,
+    Changsha University of Science and Technology, PR China
+    (2010.09 – 2014.06)
+  </li>
+</ul>
 
 Work Experience:<br>
 Lecturer, Department of Mechanics, School of Civil and Environmental Engineering, Changsha University of Science and Technology, PR China (2025.12 - Present)<br>
