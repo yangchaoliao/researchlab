@@ -12,9 +12,9 @@ profiles:
     content: about_Yangchao_Liao.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <strong>Principal Investigator</strong><br>
-      <strong>Dr. Yangchao Liao</strong><br>
-      <strong>Lecturer</strong><br>
+      Principal Investigator<br>
+      Dr. Yangchao Liao<br>
+      Lecturer<br>
   - align: left
     image: Ms Genius.jpg
     content: about_Ms_Genius.md
