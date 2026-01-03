@@ -1,6 +1,6 @@
 ---
 layout: about
-title: home
+title: Home
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Department of Mechanics, School of Civil and Environmental Engineering, Changsha University of Science and Technology, Changsha 410114, PR China
 
@@ -9,10 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Principal Investigator</p>
-    <p>Dr. Yangchao Liao (廖杨超)</p>
-    <p>Lecturer</p>
-    <p>liaoyc@csust.edu.cn</p>
+    Principal Investigator<br>
+    Dr. Yangchao Liao<br>
+    Lecturer<br>
+    [liaoyc@csust.edu.cn](liaoyc@csust.edu.cn)<br>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -28,8 +28,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+`Welcome to the Multiscale Physical Mechanics Research Group`<br>
+Based in the Department of Mechanics, School of Civil and Environmental Engineering at Changsha University of Science and Technology, our group is dedicated to advancing the fundamental understanding of material behaviors across multiple spatial and temporal scales. By integrating theoretical modeling, computational simulations, and experimental insights, we aim to address key challenges in multiscale physical mechanics and contribute to the development of novel materials and structures.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+We employ a combined methodology of high-fidelity computational tools—such as MD and FEM—alongside theoretical frameworks to bridge scales from atomic interactions to continuum responses. This integrated approach allows us to explore phenomena like deformation mechanisms, failure processes, and unique mechanical behaviors in low-dimensional and architectured materials. Through interdisciplinary collaboration and rigorous inquiry, we strive to push the boundaries of mechanics research and foster innovation in materials science and engineering applications.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+`Join Us`<br>
+We welcome motivated students who share our passion for multiscale mechanics and materials research. If you are interested in joining our team or collaborating with us, please feel free to get in touch.
