@@ -1,8 +1,8 @@
 ---
 layout: profiles
-permalink: /people/
-title: people
-description: members of the lab or group
+permalink: /People/
+title: People
+description: Members of the group
 nav: true
 nav_order: 7
 
@@ -14,19 +14,24 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Dr. Yangchao Liao (廖杨超)</p>
       <p>Principal Investigator</p>
+      <p>Dr. Yangchao Liao (廖杨超)</p>
       <p>Lecturer</p>
-      <p>Department of Mechanics</p>
-      <p>School of Civil and Environmental Engineering</p>
-      <p>Changsha University of Science and Technology</p>
-      <p>liaoyc@csust.edu.cn>dpd
- #  - align: left
- #    image: prof_pic.jpg
- #    content: about_einstein.md
- #    image_circular: false # crops the image to make it circular
- #    more_info: >
- #      <p>555 your office number</p>
- #      <p>123 your address street</p>
- #      <p>Your City, State 12345</p>
+      <p>liaoyc@csust.edu.cn</p>
+  - align: left
+    image: Ms Genius.jpg
+    content: about_einstein.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Ms. Genius</p>
+      <p>Graduate Student</p>
+      <p>ms_genius@csust.edu.cn</p>
+  - align: left
+    image: Mr Genius.jpg
+    content: about_einstein.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Mr. Genius</p>
+      <p>Graduate Student</p>
+      <p>mr_genius@csust.edu.cn</p>
 ---
