@@ -34,7 +34,6 @@ profiles:
     more_info: >
       <p>Ms. Genius</p>
       <p>Engineering Mechanics</p>
-      <p>ms_genius@csust.edu.cn</p>
   - align: left
     image: Mr Genius.jpg
     content: about_einstein.md
