@@ -24,8 +24,16 @@ Degree Information:<br>
 </ul>
 
 Work Experience:<br>
-Lecturer, Department of Mechanics, School of Civil and Environmental Engineering, Changsha University of Science and Technology, PR China (2025.12 - Present)<br>
-Postdoctoral Fellow, Department of Engineering Mechanics, Tsinghua University, PR China (2023.09 - 2025.11)
+<ul>
+  <li>
+    Lecturer, Department of Mechanics, School of Civil and Environmental Engineering, Changsha University of Science and Technology, PR China
+    (2025.12 - Present)
+  </li>
+  <li>
+    Postdoctoral Fellow, Department of Engineering Mechanics, Tsinghua University, PR China
+    (2023.09 - 2025.11)
+  </li>
+</ul>
 
 Research Interests:<br>
 Multiscale mechanics, Micro-nano mechanics, Continuum mechanics, Molecular dynamics (MD), Finite element method (FEM), Two-dimensional crystal materials, Crumpling behavior, Topologically interlocked structures, Graphene-like materials, Glass-ceramic materials
