@@ -12,12 +12,9 @@ profiles:
     content: about_Yangchao_Liao.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      Principal Investigator<br>
-      Dr. Yangchao Liao<br>
-      Lecturer<br>
-      Department of Mechanics<br>
-      School of Civil and Environmental Engineering<br>
-      Changsha University of Science and Technology<br>
+      <strong>Principal Investigator</strong><br>
+      <strong>Dr. Yangchao Liao</strong><br>
+      <strong>Lecturer</strong><br>
   - align: left
     image: Ms Genius.jpg
     content: about_Ms_Genius.md
