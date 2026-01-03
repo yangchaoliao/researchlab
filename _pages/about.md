@@ -12,7 +12,7 @@ profile:
     Principal Investigator<br>
     Dr. Yangchao Liao<br>
     Lecturer<br>
-    [liaoyc@csust.edu.cn](liaoyc@csust.edu.cn)<br>
+    liaoyc@csust.edu.cn<br>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
