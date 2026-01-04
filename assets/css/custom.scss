@@ -1,14 +1,11 @@
-/* --- Custom: highlight my name in Publications --- */
-.scholar-author.highlighted,
-.author.highlighted {
-  font-weight: 700;
+/* Ultimate override */
+.publications .highlighted,
+.bibliography .highlighted {
+  font-weight: 800 !important;
   color: inherit !important;
-  text-decoration: underline;
 }
-
-.scholar-author.highlighted a,
-.author.highlighted a {
-  font-weight: 700;
+.publications .highlighted a,
+.bibliography .highlighted a {
   color: inherit !important;
-  text-decoration: underline;
+  font-weight: 800 !important;
 }
