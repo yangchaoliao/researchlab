@@ -1,0 +1,14 @@
+/* --- Custom: highlight my name in Publications --- */
+.scholar-author.highlighted,
+.author.highlighted {
+  font-weight: 700;
+  color: inherit !important;
+  text-decoration: underline;
+}
+
+.scholar-author.highlighted a,
+.author.highlighted a {
+  font-weight: 700;
+  color: inherit !important;
+  text-decoration: underline;
+}
