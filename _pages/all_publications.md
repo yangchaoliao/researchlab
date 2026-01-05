@@ -8,12 +8,13 @@ title: All Publications
 
 [Ten recent representative publications are featured here](https://yangchaoliao.github.io/researchlab/publications/)<br>
 
-# Corresponding authors
+###### Corresponding authors
 
 
 `————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————`<br>
 
 `2017 ~ 2019`<br>
+
 (3) T. Zhang, [Y. Liao](), J. Chen*. “Theoretical analysis of the dynamic properties of a 2-2 cement-based piezoelectric composite under impact load.” [Journal of Intelligent Material Systems and Structures](), 2018, 29(7), 1285-1300.<br>
 
 (2) T. Zhang, [Y. Liao](), K. Zhang, J. Chen&. “Theoretical analysis of the dynamic properties of a 2-2 cement-based piezoelectric dual-layer stacked sensor under impact load.” [Sensors](), 2017, 17(5), 1019.<br>
@@ -21,7 +22,8 @@ title: All Publications
 (1) T. Zhang*, K. Zhang, W. Liu, [Y. Liao](). “Impact mechanical response of a 2-2 cement-based piezoelectric sensor considering the electrode layer effect.” [Sensors](), 2017, 17(9), 2035.<br>
     [https://doi.org/10.3390/s17092035](https://doi.org/10.3390/s17092035)<br>
 
-   
+`————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————`<br>
+
 `Books & Chapters`<br>
 
 (3) [Y. Liao](), L.A.R. Pestana, W. Xia*. “Multiscale modeling of supramolecular assemblies of 2D materials.” In Fundamentals of Multiscale Modeling of Structural Materials, Edited by W. Xia and L.A.R. Pestana, Elsevier Inc. 2023, pp. 389-423, SBN: 9780128230213.<br>
