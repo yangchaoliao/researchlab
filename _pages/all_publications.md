@@ -8,6 +8,7 @@ title: All Publications
 
 ### [Recent representative publications are featured here](https://yangchaoliao.github.io/researchlab/publications/)<br>
 
+* Corresponding authors; † Equally contributed
 
 
 ### 2026<br>
