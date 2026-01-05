@@ -8,12 +8,11 @@ title: All Publications
 
 [Ten recent representative publications are featured here](https://yangchaoliao.github.io/researchlab/publications/)<br>
 
-## Corresponding authors
 
 
 `————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————`<br>
 
-`2017 ~ 2019`<br>
+## `2017 ~ 2019`<br>
 
 (3) T. Zhang, [Y. Liao](), J. Chen*. “Theoretical analysis of the dynamic properties of a 2-2 cement-based piezoelectric composite under impact load.” [Journal of Intelligent Material Systems and Structures](), 2018, 29(7), 1285-1300.<br>
 
@@ -24,7 +23,7 @@ title: All Publications
 
 `————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————`<br>
 
-`Books & Chapters`<br>
+## `Books & Chapters`<br>
 
 (3) [Y. Liao](), L.A.R. Pestana, W. Xia*. “Multiscale modeling of supramolecular assemblies of 2D materials.” In Fundamentals of Multiscale Modeling of Structural Materials, Edited by W. Xia and L.A.R. Pestana, Elsevier Inc. 2023, pp. 389-423, SBN: 9780128230213.<br>
     [https://doi.org/10.1016/B978-0-12-823021-3.00002-6](https://doi.org/10.1016/B978-0-12-823021-3.00002-6)
