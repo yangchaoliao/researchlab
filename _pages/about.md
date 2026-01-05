@@ -30,7 +30,7 @@ announcements:
 
 `Welcome to the Multiscale Physical Mechanics Research Group`<br>
 
-Based in the Department of Mechanics, School of Civil and Environmental Engineering at Changsha University of Science and Technology, our group is dedicated to advancing the fundamental understanding of material behaviors across multiple spatial and temporal scales. By integrating theoretical modeling, computational simulations, and experimental insights, we aim to address key challenges in multiscale physical mechanics and contribute to the development of novel materials and structures.
+Based in the [Department of Mechanics](https://www.csust.edu.cn/tmjz/zyjs/gclx.htm), School of Civil and Environmental Engineering at Changsha University of Science and Technology, our group is dedicated to advancing the fundamental understanding of material behaviors across multiple spatial and temporal scales. By integrating theoretical modeling, computational simulations, and experimental insights, we aim to address key challenges in multiscale physical mechanics and contribute to the development of novel materials and structures.
 
 We employ a combined methodology of high-fidelity computational tools—such as MD and FEM—alongside theoretical frameworks to bridge scales from atomic interactions to continuum responses. This integrated approach allows us to explore phenomena like deformation mechanisms, failure processes, and unique mechanical behaviors in low-dimensional and architectured materials. Through interdisciplinary collaboration and rigorous inquiry, we strive to push the boundaries of mechanics research and foster innovation in materials science and engineering applications.
 
