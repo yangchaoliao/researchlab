@@ -11,4 +11,6 @@ children:
     permalink: /news/
   - title: Photo Gallery
     permalink: /photo_gallery/
+  - title: Group Alumni
+    permalink: /group_alumni/
 ---
