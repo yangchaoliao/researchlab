@@ -30,12 +30,26 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/researchlab/People/";
           },
-        },{id: "dropdown-news",
+        },{id: "dropdown-teaching",
+              title: "Teaching",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/researchlab/teaching/";
+              },
+            },{id: "dropdown-news",
               title: "News",
               description: "",
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/researchlab/news/";
+              },
+            },{id: "dropdown-photo-gallery",
+              title: "Photo Gallery",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/researchlab/photo_gallery/";
               },
             },{id: "post-a-post-with-plotly-js",
         
