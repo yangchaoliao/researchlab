@@ -13,7 +13,7 @@ title: All Publications
 
 
 
-
+  </div>
 `2017 ~ 2019`<br>
 
 
@@ -22,7 +22,7 @@ title: All Publications
 (1) T. Zhang^*, K. Zhang, W. Liu, [Y. Liao](). “Impact mechanical response of a 2-2 cement-based piezoelectric sensor considering the electrode layer effect.” [Sensors](), 2017, 17(9), 2035.<br>
     [https://doi.org/10.3390/s17092035](https://doi.org/10.3390/s17092035)<br>
 
-
+  </div>
 `Books & Chapters`<br>
 
 (3) [Y. Liao](), L.A.R. Pestana, W. Xia*. “Multiscale modeling of supramolecular assemblies of 2D materials.” In Fundamentals of Multiscale Modeling of Structural Materials, Edited by W. Xia and L.A.R. Pestana, Elsevier Inc. 2023, pp. 389-423, SBN: 9780128230213.<br>
@@ -33,3 +33,4 @@ title: All Publications
 
 (1) L.A.R. Pestana*, [Y. Liao](), Z. Li, W. Xia. “Atomistic molecular modeling methods.” In Fundamentals of Multiscale Modeling of Structural Materials, Edited by W. Xia and L.A.R. Pestana, Elsevier Inc. 2023, pp. 37-73, SBN: 9780128230213.
     [https://doi.org/10.1016/B978-0-12-823021-3.00006-3](https://doi.org/10.1016/B978-0-12-823021-3.00006-3)<br>
+  </div>
