@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-student-awards",
           title: "Student Awards",
-          description: "Updates are ongoing.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/researchlab/student_awards/";
