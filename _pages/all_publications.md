@@ -10,7 +10,7 @@ title: All Publications
 
 
 
-`————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————`<br>
+
 
 ## `2017 ~ 2019`<br>
 
@@ -21,11 +21,11 @@ title: All Publications
 (1) T. Zhang*, K. Zhang, W. Liu, [Y. Liao](). “Impact mechanical response of a 2-2 cement-based piezoelectric sensor considering the electrode layer effect.” [Sensors](), 2017, 17(9), 2035.<br>
     [https://doi.org/10.3390/s17092035](https://doi.org/10.3390/s17092035)<br>
 
-`————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————`<br>
+
 
 ## `Books & Chapters`<br>
 
-(3) [Y. Liao](), L.A.R. Pestana, W. Xia*. “Multiscale modeling of supramolecular assemblies of 2D materials.” In Fundamentals of Multiscale Modeling of Structural Materials, Edited by W. Xia and L.A.R. Pestana, Elsevier Inc. 2023, pp. 389-423, SBN: 9780128230213.<br>
+(3) [Y. Liao](), L.A.R. Pestana, W. Xia**. “Multiscale modeling of supramolecular assemblies of 2D materials.” In Fundamentals of Multiscale Modeling of Structural Materials, Edited by W. Xia and L.A.R. Pestana, Elsevier Inc. 2023, pp. 389-423, SBN: 9780128230213.<br>
     [https://doi.org/10.1016/B978-0-12-823021-3.00002-6](https://doi.org/10.1016/B978-0-12-823021-3.00002-6)
 
 (2) Fatima, [Y. Liao](), S.A. Tolba, L.A.R. Pestana, W. Xia*. “Electronic structure and density functional theory.” In Fundamentals of Multiscale Modeling of Structural Materials, Edited by W. Xia and L.A.R. Pestana, Elsevier Inc. 2023, pp. 3-35, SBN: 9780128230213.<br>
