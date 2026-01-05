@@ -2,7 +2,6 @@
 layout: profiles
 permalink: /People/
 title: The Team
-description: Members of the group
 nav: true
 nav_order: 2
 
@@ -11,10 +10,6 @@ profiles:
     image: prof_pic.jpg
     content: about_Yangchao_Liao.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-      Principal Investigator<br>
-      Yangchao Liao, Ph.D.<br>
-      Lecturer<br>
   - align: left
     image: Ms Genius.jpg
     content: about_Ms_Genius.md
