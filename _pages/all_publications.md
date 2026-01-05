@@ -6,7 +6,7 @@ title: All Publications
 
 ### [Google Scholar is available here](https://scholar.google.com/citations?user=5HUg_7gAAAAJ&hl=zh-CN&oi=ao)<br>
 
-### [Ten recent representative publications are featured here](https://yangchaoliao.github.io/researchlab/publications/)<br>
+### [Recent representative publications are featured here](https://yangchaoliao.github.io/researchlab/publications/)<br>
 
 
 
