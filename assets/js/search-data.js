@@ -37,13 +37,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/researchlab/teaching/";
           },
-        },{id: "nav-photo-gallery",
-          title: "Photo Gallery",
-          description: "A growing collection of your cool projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/researchlab/projects/";
-          },
         },{id: "dropdown-news",
               title: "News",
               description: "",
