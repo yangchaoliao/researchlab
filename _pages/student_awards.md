@@ -2,9 +2,9 @@
 layout: page
 permalink: /teaching/
 title: Student Awards
-description: Materials for courses you taught. Replace this text with your description.
+description: `Updates are ongoing.`
 nav: true
 nav_order: 5
 ---
 
-`Updates are ongoing.`
+
