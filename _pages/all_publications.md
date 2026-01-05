@@ -2,19 +2,25 @@
 layout: page
 permalink: /all_publications/
 title: All Publications
-description: Updates are ongoing.
 ---
 
 
+[Google Scholar is available here](https://scholar.google.com/citations?user=5HUg_7gAAAAJ&hl=zh-CN&oi=ao)<br>
+
+[Ten recent representative publications are featured here](https://yangchaoliao.github.io/researchlab/publications/)<br>
 
 
 
 
 
 
+`2017 ~ 2019`<br>
 
 
 
+
+(1) T. Zhang^*, K. Zhang, W. Liu, [Y. Liao](). “Impact mechanical response of a 2-2 cement-based piezoelectric sensor considering the electrode layer effect.” [Sensors](), 2017, 17(9), 2035.<br>
+    [https://doi.org/10.3390/s17092035](https://doi.org/10.3390/s17092035)<br>
 
 
 `Books & Chapters`<br>
