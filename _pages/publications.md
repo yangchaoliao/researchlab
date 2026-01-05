@@ -12,7 +12,7 @@ nav_order: 4
 ### [All publications are here (24 publications)](https://yangchaoliao.github.io/researchlab/all_publications/)<br>
 
 
-### This page features our ten recent representative publications.<br>
+### This page features our recent representative publications.<br>
 
 <div class="publications">
 
