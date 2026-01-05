@@ -9,6 +9,21 @@ title: All Publications
 ### [Ten recent representative publications are featured here](https://yangchaoliao.github.io/researchlab/publications/)<br>
 
 
+
+### 2022<br>
+
+(10) A.B. Croll*, [Y. Liao](), Z. Li, W.M.A. Jayawardana, T. Elder, W. Xia*. “Sticky crumpled matter.” [Matter](), 2022, 5(6), 1792-1805.<br>
+     [https://doi.org/10.1016/j.matt.2022.04.029](https://doi.org/10.1016/j.matt.2022.04.029)<br>
+
+(9) [Y. Liao](), Z. Li, W. Nie, W. Xia *. “Effect of reconstructed vacancy defects on the crumpling behavior of graphene sheets.” [Forces in Mechanics](), 2022, 6, 100057.<br>
+    [https://doi.org/10.1016/j.finmec.2021.100057](https://doi.org/10.1016/j.finmec.2021.100057)<br>
+
+(8) Z. Li, [Y. Liao](), Y. Zhang, Y. Zhang, W. Xia *. “Microstructure and dynamics of nanocellulose films: Insights into the deformational behavior.” [Extreme Mechanics Letters](), 2022, 50, 101519.<br>
+    [https://doi.org/10.1016/j.eml.2021.101519](https://doi.org/10.1016/j.eml.2021.101519)<br>
+
+
+
+
 ### 2021<br>
 
 (7) [Y. Liao](), Z. Li, S. Ghazanfari, Fatima, A.B. Croll, W. Xia *. “Understanding the role of self-adhesion in crumpling behaviors of sheet macromolecules.” *[Langmuir]()*, 2021, 37(28), 8627-8637.<br>
