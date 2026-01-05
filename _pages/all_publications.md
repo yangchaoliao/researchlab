@@ -11,7 +11,7 @@ title: All Publications
 
 ### 2021<br>
 
-(7) [Y. Liao](), Z. Li, S. Ghazanfari, Fatima, A.B. Croll, W. Xia *. “Understanding the role of self-adhesion in crumpling behaviors of sheet macromolecules.” [*Langmuir*](), 2021, 37(28), 8627-8637.<br>
+(7) [Y. Liao](), Z. Li, S. Ghazanfari, Fatima, A.B. Croll, W. Xia *. “Understanding the role of self-adhesion in crumpling behaviors of sheet macromolecules.” *[Langmuir]()*, 2021, 37(28), 8627-8637.<br>
     [https://doi.org/10.1021/acs.langmuir.1c01545](https://doi.org/10.1021/acs.langmuir.1c01545)<br>
     
 (6) [Y. Liao](), Z. Li, Fatima, W. Xia *. “Size-dependent structural behaviors of crumpled graphene sheets.” [*Carbon*](), 2021, 174, 148-157.<br>
