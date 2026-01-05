@@ -8,7 +8,7 @@ title: All Publications
 
 [Ten recent representative publications are featured here](https://yangchaoliao.github.io/researchlab/publications/)<br>
 
-###### Corresponding authors
+## Corresponding authors
 
 
 `————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————`<br>
