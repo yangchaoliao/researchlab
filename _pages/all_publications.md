@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: /all_publications/
 title: All Publications
 description: Updates are ongoing.
 ---
