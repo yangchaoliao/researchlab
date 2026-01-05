@@ -11,7 +11,7 @@ title: All Publications
 # Corresponding authors
 
 
-——————————————————————————————————————————————————————————————
+`————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————`<br>
 
 `2017 ~ 2019`<br>
 (3) T. Zhang, [Y. Liao](), J. Chen*. “Theoretical analysis of the dynamic properties of a 2-2 cement-based piezoelectric composite under impact load.” [Journal of Intelligent Material Systems and Structures](), 2018, 29(7), 1285-1300.<br>
