@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Photo Gallery
-permalink: /projects/
+permalink: /photo_gallery/
 description: A growing collection of your cool projects.
 display_categories: [work, fun]
 horizontal: false
