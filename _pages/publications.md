@@ -12,11 +12,11 @@ This page features our ten recent representative publications.<br>
 [All publications are here (24 publications)](https://yangchaoliao.github.io/researchlab/all_publications/)
 
 
-# <!-- _pages/publications.md -->
+#<!-- _pages/publications.md -->
 
-# <!-- Bibsearch Feature -->
+#<!-- Bibsearch Feature -->
 
-# {% include bib_search.liquid %}
+#{% include bib_search.liquid %}
 
 <div class="publications">
 
