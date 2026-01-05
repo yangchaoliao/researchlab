@@ -10,9 +10,36 @@ title: All Publications
 
 
 
+### 2024<br>
+
+
+
+(16) [Y. Liao](), O.M. Palmero, A. Arshad, L. Chen, W. Xia *. “Molecular dynamics simulations of crumpling polymer grafted graphene sheets: implications for functional nanocomposites.” [ACS Applied Nano Materials](), 2024, 7(7), 7802-7811.<br>
+     [https://doi.org/10.1021/acsanm.4c00425](https://doi.org/10.1021/acsanm.4c00425)<br>
+
+### 2023<br>
+
+(15) Y. Cao, J. Wang *, [Y. Liao](), L. Tang. “A comprehensive dynamic continuous model of piezoelectric stack energy harvesters under arbitrary excitation considering electrodes and protective layers.” [Journal of Physics D: Applied Physics](), 2023, 56(46), 464001.<br>
+     [https://doi.org/10.1088/1361-6463/aceb01](https://doi.org/10.1088/1361-6463/aceb01)<br>
+
+(14) [Y. Liao](), Z. Li, L. Chen, A.B. Croll, W. Xia *. “Crumpling defective graphene sheets”, [Nano Letters](), 2023, 23(8), 3637-3644.<br>
+     [https://doi.org/10.1021/acs.nanolett.2c04771](https://doi.org/10.1021/acs.nanolett.2c04771)<br>
+
+(13) S. Ghazanfari, A. Alesadi, [Y. Liao](), Y. Zhang, W. Xia *. “Molecular insights into the temperature and pressure dependence of mechanical behavior and dynamics of Na-montmorillonite clay.” [Nanoscale Advances](), 2023, 5(20), 5449-5459.<br>
+     [https://doi.org/10.1039/D3NA00365E](https://doi.org/10.1039/D3NA00365E)<br>
+
+(12) A. Ghasemi †, [Y. Liao]() †, Z. Li, W. Xia *, W. Gao *. “Crystallization and melting of polymer chains on graphene and graphene oxide.” [Nanoscale](), 2023, 15(29), 12235-12244.<br>
+     [https://doi.org/10.1039/D3NR00817G](https://doi.org/10.1039/D3NR00817G)<br>
+     
+(11) W.M.A. Jayawardana †, [Y. Liao]() †, Z. Li, W. Xia, A.B. Croll *. “Crumpled Kirigami.” [Soft Matter](), 2023, 19(6), 1081-1091.<br>
+     [https://doi.org/10.1039/D2SM01584F](https://doi.org/10.1039/D2SM01584F)<br>
+
+
+
+
 ### 2022<br>
 
-(10) A.B. Croll*, [Y. Liao](), Z. Li, W.M.A. Jayawardana, T. Elder, W. Xia*. “Sticky crumpled matter.” [Matter](), 2022, 5(6), 1792-1805.<br>
+(10) A.B. Croll *, [Y. Liao](), Z. Li, W.M.A. Jayawardana, T. Elder, W. Xia *. “Sticky crumpled matter.” [Matter](), 2022, 5(6), 1792-1805.<br>
      [https://doi.org/10.1016/j.matt.2022.04.029](https://doi.org/10.1016/j.matt.2022.04.029)<br>
 
 (9) [Y. Liao](), Z. Li, W. Nie, W. Xia *. “Effect of reconstructed vacancy defects on the crumpling behavior of graphene sheets.” [Forces in Mechanics](), 2022, 6, 100057.<br>
