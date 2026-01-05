@@ -14,7 +14,7 @@ title: All Publications
 
 (24) L. Wang †, [Y. Liao]() †, J. Huang, C. Shen, L. Chen, L. Peng, K. Li, P. Li, Y. Liu, Z. Xu *, K. Pang *, Z. Xu *, and C. Gao *. “Clasping folds enable superior elastic strength of graphene films.” [Nature](), Submitted.<br>
 
-(23) Y. Gao †, Y. Wang †, [Y. Liao]() †, L. Peng, D. Chang, R. Li, X. Zhao, K. Li, H. Li, M. Cao, P. Li, Y. Liu, X. Ming*, Z. Xu*, C. Gao, and Z. Xu *. “π-π stacking origin of irreversible dispersibility of graphene oxide.” [Nature Communications](), Submitted.<br>
+(23) Y. Gao †, Y. Wang †, [Y. Liao]() †, L. Peng, D. Chang, R. Li, X. Zhao, K. Li, H. Li, M. Cao, P. Li, Y. Liu, X. Ming *, Z. Xu *, C. Gao, and Z. Xu *. “π-π stacking origin of irreversible dispersibility of graphene oxide.” [Nature Communications](), Submitted.<br>
 
 (22) C. Shen †, [Y. Liao]() †, Y. Gao, S. Liu, X. Ye, Y. Wang, R. Guo, G. Cai, W. Zhao, M. Zhang, Z. Lin, C. Ge, C. Zhang, Z. Xu *, Y. Liu *, Z. Xu *, and C. Gao *. “Fragmented liquid crystals of graphene oxide.” [Advanced Materials](), Submitted.<br>
 
@@ -29,7 +29,7 @@ title: All Publications
 (20) [Y. Liao]() †, L. Chen †, W. Xia *. “Insights into the structural features of crumpling graphene nanoribbons.” [Nanoscale](), 2025, 17, 15493-15504.<br>
      [https://doi.org/10.1039/D5NR00805K](https://doi.org/10.1039/D5NR00805K)<br>
      
-(19) W. Dong, Y. Liao, S. Feng, S. Wang, R. Jarapanyacheep, X. Cui, J. Huang, Y. Hou, L. Liu *, Z. Xu *, Z. Zhang. “Van der Waals pinning strategy for high electrical breakdown resistance in 2D‐material electronics”. Small, 2025, 2501171.<br>
+(19) W. Dong, [Y. Liao](), S. Feng, S. Wang, R. Jarapanyacheep, X. Cui, J. Huang, Y. Hou, L. Liu *, Z. Xu *, Z. Zhang. “Van der Waals pinning strategy for high electrical breakdown resistance in 2D‐material electronics”. Small, 2025, 2501171.<br>
      [https://doi.org/10.1002/smll.202501171](https://doi.org/10.1002/smll.202501171)<br>
 
 
