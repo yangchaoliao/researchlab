@@ -36,4 +36,4 @@ We employ a combined methodology of high-fidelity computational tools—such as 
 
 `Join Us`<br>
 
-We welcome motivated students who share our passion for multiscale mechanics and materials research. If you are interested in joining our team or collaborating with us, [please feel free to get in touch](liaoyc@csust.edu.cn).
+We welcome motivated students who share our passion for multiscale mechanics and materials research. If you are interested in joining our team or collaborating with us, please feel free to get in touch.
