@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: /group_alumni/
 title: Group Alumni
 description: Updates are ongoing.
 ---
