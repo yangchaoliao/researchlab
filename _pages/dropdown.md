@@ -7,12 +7,12 @@ dropdown: true
 children:
   - title: All publications
     permalink: /all_publications/
-  - title: Teaching
-    permalink: /teaching/
-  - title: News
-    permalink: /news/
   - title: Photo Gallery
     permalink: /photo_gallery/
   - title: Group Alumni
     permalink: /group_alumni/
+  - title: Teaching
+    permalink: /teaching/
+  - title: News
+    permalink: /news/  
 ---
