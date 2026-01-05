@@ -12,9 +12,9 @@ title: All Publications
 
 
 
-## `2017 ~ 2019`<br>
+## 2017 ~ 2019 ## <br>
 
-(5) T. Zhang, J. Chen*, A. Ingabire, [Y. Liao]()*. “Dynamic response of a 2-2 multi-layered cement-based piezoelectric composite under arbitrary mechanical load.” [Journal of Intelligent Material Systems and Structures](), 2019, 30(20), 3080-3099.<br>
+(5) T. Zhang, J. Chen*, A. Ingabire, ## [Y. Liao]() ##*. “Dynamic response of a 2-2 multi-layered cement-based piezoelectric composite under arbitrary mechanical load.” [Journal of Intelligent Material Systems and Structures](), 2019, 30(20), 3080-3099.<br>
     [https://doi.org/10.1177/1045389X19873416](https://doi.org/10.1177/1045389X19873416)<br>
     
 (4) T. Zhang*, [Y. Liao](), W. Liu. “Theoretical solutions of 2–2 multi-layered cement-based piezoelectric composite under impact load.” [Composite Structures](), 2018, 195, 249-264.<br>
@@ -31,7 +31,7 @@ title: All Publications
 
 
 
-## `Books & Chapters`<br>
+## Books & Chapters<br>
 
 (3) [Y. Liao](), L.A.R. Pestana, W. Xia*. “Multiscale modeling of supramolecular assemblies of 2D materials.” In Fundamentals of Multiscale Modeling of Structural Materials, Edited by W. Xia and L.A.R. Pestana, Elsevier Inc. 2023, pp. 389-423, SBN: 9780128230213.<br>
     [https://doi.org/10.1016/B978-0-12-823021-3.00002-6](https://doi.org/10.1016/B978-0-12-823021-3.00002-6)
