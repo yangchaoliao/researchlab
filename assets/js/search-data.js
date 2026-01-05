@@ -44,20 +44,6 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/researchlab/all_publications/";
               },
-            },{id: "dropdown-teaching",
-              title: "Teaching",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/researchlab/teaching/";
-              },
-            },{id: "dropdown-news",
-              title: "News",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/researchlab/news/";
-              },
             },{id: "dropdown-photo-gallery",
               title: "Photo Gallery",
               description: "",
@@ -71,6 +57,20 @@ ninja.data = [{
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/researchlab/group_alumni/";
+              },
+            },{id: "dropdown-teaching",
+              title: "Teaching",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/researchlab/teaching/";
+              },
+            },{id: "dropdown-news",
+              title: "News",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/researchlab/news/";
               },
             },{id: "post-a-post-with-plotly-js",
         
