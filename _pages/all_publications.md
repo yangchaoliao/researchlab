@@ -9,10 +9,17 @@ title: All Publications
 [Ten recent representative publications are featured here](https://yangchaoliao.github.io/researchlab/publications/)<br>
 
 
+## 2021<br>
+
+(7) [Y. Liao](), Z. Li, S. Ghazanfari, Fatima, A.B. Croll, W. Xia*. “Understanding the role of self-adhesion in crumpling behaviors of sheet macromolecules.” [Langmuir](), 2021, 37(28), 8627-8637.<br>
+    [https://doi.org/10.1021/acs.langmuir.1c01545](https://doi.org/10.1021/acs.langmuir.1c01545)<br>
+    
+(6) [Y. Liao](), Z. Li, Fatima, W. Xia*. “Size-dependent structural behaviors of crumpled graphene sheets.” [Carbon](), 2021, 174, 148-157.<br>
+    [https://doi.org/10.1016/j.carbon.2020.12.006](https://doi.org/10.1016/j.carbon.2020.12.006)<br>
 
 
 
-## 2017 ~ 2019<br>
+### 2017 ~ 2020<br>
 
 (5) T. Zhang, J. Chen*, A. Ingabire, [Y. Liao]()*. “Dynamic response of a 2-2 multi-layered cement-based piezoelectric composite under arbitrary mechanical load.” [Journal of Intelligent Material Systems and Structures](), 2019, 30(20), 3080-3099.<br>
     [https://doi.org/10.1177/1045389X19873416](https://doi.org/10.1177/1045389X19873416)<br>
