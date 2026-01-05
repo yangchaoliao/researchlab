@@ -7,8 +7,6 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-{% include news.liquid %}
-
 
 <!-- pages/projects.md -->
 <div class="projects">
