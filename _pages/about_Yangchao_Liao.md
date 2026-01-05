@@ -1,7 +1,7 @@
-### Yangchao Liao, Ph.D.
+### Yangchao Liao, Ph.D.<br>
 
-Principal Investigator
-Lecturer
+Principal Investigator<br>
+Lecturer<br>
 Phone: +86-13126791177<br>
 Email: liaoyc@csust.edu.cn<br>
 WeChat: 13126791177<br>
