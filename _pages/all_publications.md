@@ -11,7 +11,7 @@ title: All Publications
 # Corresponding authors
 
 
-
+——————————————————————————————————————————————————————————————
 
 `2017 ~ 2019`<br>
 (3) T. Zhang, [Y. Liao](), J. Chen*. “Theoretical analysis of the dynamic properties of a 2-2 cement-based piezoelectric composite under impact load.” [Journal of Intelligent Material Systems and Structures](), 2018, 29(7), 1285-1300.<br>
@@ -21,7 +21,6 @@ title: All Publications
 (1) T. Zhang*, K. Zhang, W. Liu, [Y. Liao](). “Impact mechanical response of a 2-2 cement-based piezoelectric sensor considering the electrode layer effect.” [Sensors](), 2017, 17(9), 2035.<br>
     [https://doi.org/10.3390/s17092035](https://doi.org/10.3390/s17092035)<br>
 
-   -
    
 `Books & Chapters`<br>
 
