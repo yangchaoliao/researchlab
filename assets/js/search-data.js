@@ -58,6 +58,13 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/researchlab/photo_gallery/";
               },
+            },{id: "dropdown-group-alumni",
+              title: "Group Alumni",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/researchlab/group_alumni/";
+              },
             },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
