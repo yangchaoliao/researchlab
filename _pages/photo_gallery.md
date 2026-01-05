@@ -3,11 +3,15 @@ layout: page
 title: Photo Gallery
 permalink: /projects/
 description: A growing collection of your cool projects.
-nav: true
-nav_order: 6
+# nav: true
+# nav_order: 6
 display_categories: [work, fun]
 horizontal: false
 ---
+
+
+{% include news.liquid %}
+
 
 <!-- pages/projects.md -->
 <div class="projects">
