@@ -12,9 +12,9 @@ title: All Publications
 
 
 
-## 2017 ~ 2019 ## <br>
+## 2017 ~ 2019<br>
 
-(5) T. Zhang, J. Chen*, A. Ingabire, ## [Y. Liao]() ##*. “Dynamic response of a 2-2 multi-layered cement-based piezoelectric composite under arbitrary mechanical load.” [Journal of Intelligent Material Systems and Structures](), 2019, 30(20), 3080-3099.<br>
+(5) T. Zhang, J. Chen*, A. Ingabire, [Y. Liao]()*. “Dynamic response of a 2-2 multi-layered cement-based piezoelectric composite under arbitrary mechanical load.” [Journal of Intelligent Material Systems and Structures](), 2019, 30(20), 3080-3099.<br>
     [https://doi.org/10.1177/1045389X19873416](https://doi.org/10.1177/1045389X19873416)<br>
     
 (4) T. Zhang*, [Y. Liao](), W. Liu. “Theoretical solutions of 2–2 multi-layered cement-based piezoelectric composite under impact load.” [Composite Structures](), 2018, 195, 249-264.<br>
