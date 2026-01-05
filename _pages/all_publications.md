@@ -4,12 +4,12 @@ permalink: /all_publications/
 title: All Publications
 ---
 
-[Google Scholar is available here](https://scholar.google.com/citations?user=5HUg_7gAAAAJ&hl=zh-CN&oi=ao)<br>
+### [Google Scholar is available here](https://scholar.google.com/citations?user=5HUg_7gAAAAJ&hl=zh-CN&oi=ao)<br>
 
-[Ten recent representative publications are featured here](https://yangchaoliao.github.io/researchlab/publications/)<br>
+### [Ten recent representative publications are featured here](https://yangchaoliao.github.io/researchlab/publications/)<br>
 
 
-## 2021<br>
+### 2021<br>
 
 (7) [Y. Liao](), Z. Li, S. Ghazanfari, Fatima, A.B. Croll, W. Xia*. “Understanding the role of self-adhesion in crumpling behaviors of sheet macromolecules.” [Langmuir](), 2021, 37(28), 8627-8637.<br>
     [https://doi.org/10.1021/acs.langmuir.1c01545](https://doi.org/10.1021/acs.langmuir.1c01545)<br>
@@ -38,7 +38,7 @@ title: All Publications
 
 
 
-## Books & Chapters<br>
+### Books & Chapters<br>
 
 (3) [Y. Liao](), L.A.R. Pestana, W. Xia*. “Multiscale modeling of supramolecular assemblies of 2D materials.” In Fundamentals of Multiscale Modeling of Structural Materials, Edited by W. Xia and L.A.R. Pestana, Elsevier Inc. 2023, pp. 389-423, SBN: 9780128230213.<br>
     [https://doi.org/10.1016/B978-0-12-823021-3.00002-6](https://doi.org/10.1016/B978-0-12-823021-3.00002-6)
