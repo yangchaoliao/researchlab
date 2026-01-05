@@ -7,7 +7,9 @@ nav: true
 nav_order: 4
 ---
 
-All publications are here ([24 publications]())
+
+
+[All publications are here (24 publications)](https://yangchaoliao.github.io/researchlab/all_publications/)
 
 
 <!-- _pages/publications.md -->
