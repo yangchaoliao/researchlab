@@ -35,7 +35,7 @@ ninja.data = [{
           description: "Updates are ongoing.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/researchlab/teaching/";
+            window.location.href = "/researchlab/student_awards/";
           },
         },{id: "dropdown-all-publications",
               title: "All publications",
