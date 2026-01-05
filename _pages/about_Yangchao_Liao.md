@@ -1,12 +1,16 @@
+### Yangchao Liao, Ph.D.
+
+Principal Investigator
+Lecturer
 Phone: +86-13126791177<br>
 Email: liaoyc@csust.edu.cn<br>
 WeChat: 13126791177<br>
 [ResearchGate](https://www.researchgate.net/profile/Yangchao-Liao?ev=hdr_xprf) [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=5HUg_7gAAAAJ&view_op=list_works&sortby=pubdate)
 
-Mailing Address:<br>
+#### Mailing Address:<br>
 湖南省长沙市雨花区万家丽南路2段960号长沙理工大学土木与环境工程学院A310室
 
-Degree Information:<br>
+#### Degree Information:<br>
 <ul>
   <li>
     Doctor of Philosophy, Civil Engineering, North Dakota State University, USA
@@ -23,7 +27,7 @@ Degree Information:<br>
   </li>
 </ul>
 
-Work Experience:<br>
+#### Work Experience:<br>
 <ul>
   <li>
     Lecturer, Department of Mechanics, School of Civil and Environmental Engineering, Changsha University of Science and Technology, PR China
@@ -35,5 +39,5 @@ Work Experience:<br>
   </li>
 </ul>
 
-Research Interests:<br>
+#### Research Interests:<br>
 Multiscale mechanics, Micro-nano mechanics, Continuum mechanics, Molecular dynamics (MD), Finite element method (FEM), Two-dimensional crystal materials, Crumpling behavior, Topologically interlocked structures, Graphene-like materials, Glass-ceramic materials
