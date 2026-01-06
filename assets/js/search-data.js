@@ -94,12 +94,7 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/researchlab/books/the_godfather/";
-            },},{id: "news-dr-yangchao-liao-has-joined-the-school-of-civil-and-environmental-engineering-at-changsha-university-of-science-and-technology-as-a-lecturer-the-new-research-group-website-is-now-officially-online-sparkles-smile",
+      },{id: "news-dr-yangchao-liao-has-joined-the-school-of-civil-and-environmental-engineering-at-changsha-university-of-science-and-technology-as-a-lecturer-the-new-research-group-website-is-now-officially-online-sparkles-smile",
           title: 'Dr. Yangchao Liao has joined the School of Civil and Environmental Engineering at...',
           description: "",
           section: "News",},{id: "projects-topic-1-crumpling-behavior-of-2d-sheets",
