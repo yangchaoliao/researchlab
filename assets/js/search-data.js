@@ -448,9 +448,9 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/researchlab/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-topic-2-compression-mechanics-of-crumpled-balls",
+          title: 'Topic 2 - Compression mechanics of crumpled balls',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/researchlab/projects/2_project/";
             },},{
