@@ -3,8 +3,6 @@ layout: page
 title: Topic 1 - Crumpling behavior of 2D sheets
 img: assets/img/project/topic1/2.png
 importance: 1
-category: work
-related_publications: true
 ---
 
 <div class="row">
