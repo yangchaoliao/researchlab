@@ -26,10 +26,10 @@ Overall, our work provides fundamental insights into how adhesion, patterning, a
 
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/publication_preview/croll2022sticky.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/publication_preview/jayawardana2023crumpled.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
