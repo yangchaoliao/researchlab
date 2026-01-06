@@ -7,6 +7,15 @@ category: work
 related_publications: true
 ---
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/project/topic1/three_crumpled.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Crumpled polymer-grafted 2D sheets
+</div>
+
 Our research aims to establish a physics-based, simulation-driven understanding of how nanoscale interactions, geometry, and microstructural imperfections govern the crumpling of graphene and related 2D sheet macromolecules. Using atomistically informed coarse-grained molecular dynamics (CG-MD), we quantify how initially flat sheets evolve into hierarchical, sphere-like crumpled architectures through coupled mechanisms of edge bending, self-adhesion-driven folding, and final-stage compression. Across graphene sheets, nanoribbons, and polymer-grafted graphene, our work reveals robust power-law scaling laws linking key structural metrics (e.g., radius of gyration and hydrodynamic/viscosity radii) to controllable design variables such as sheet size, adhesion strength, aspect ratio, defect topology, and grafting density. These results provide a predictive framework for tailoring packing efficiency (via fractal descriptors), mechanical heterogeneity, and compaction resistance—enabling rational design of crumpled graphene-based matter for functional nanocomposites, coatings, and energy-related applications.
 
 ### Highlights from our published work
@@ -30,63 +39,22 @@ Our research aims to establish a physics-based, simulation-driven understanding 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/publication_preview/liao2023crumpling.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Cover of the article: [Crumpling defective graphene sheets](https://doi.org/10.1021/acs.nanolett.2c04771)
+    Cover of the article (https://doi.org/10.1021/acs.nanolett.2c04771)
 </div>
 
 
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/publication_preview/liao2024molecular.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Cover of the article (https://doi.org/10.1021/acsanm.4c00425)
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
