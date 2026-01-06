@@ -12,7 +12,7 @@ Our research aims to establish a physics-based, simulation-driven understanding 
 ### Highlights from our published work
 <ul>
   <li>
-    `Universal crumpling regimes:` Identified three crumpling regimes dominated by edge bending, self-adhesion, and further compression, offering a mechanistic “map” of crumpling pathways.
+    `Universal crumpling regimes`: Identified three crumpling regimes dominated by edge bending, self-adhesion, and further compression, offering a mechanistic “map” of crumpling pathways.
   </li>
   <li>
       Scaling and packing efficiency: Predicted fractal-like packing behavior (e.g., 
