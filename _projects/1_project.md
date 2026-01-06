@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Crumpling mechanics and structure–property relationships of 2D sheets
-description: with background image
-img: assets/img/12.jpg
+title: Topic 1 - Crumpling behavior of 2D sheets
+img: assets/img/project/topic1/1.jpg
 importance: 1
 category: work
 related_publications: true
