@@ -35,34 +35,13 @@ Our research aims to establish a physics-based, simulation-driven understanding 
   </li>
 </ul>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/publication_preview/liao2023crumpling.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Cover of the article (https://doi.org/10.1021/acs.nanolett.2c04771)
-</div>
-
-
-
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/publication_preview/liao2024molecular.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Cover of the article (https://doi.org/10.1021/acsanm.4c00425)
-</div>
-
 
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/publication_preview/liao2023crumpling.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/publication_preview/liao2024molecular.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
