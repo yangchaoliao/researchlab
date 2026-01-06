@@ -38,10 +38,10 @@ Our research aims to establish a physics-based, simulation-driven understanding 
 
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/publication_preview/liao2023crumpling.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/publication_preview/liao2024molecular.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
