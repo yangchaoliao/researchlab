@@ -5,14 +5,15 @@ img: assets/img/project/topic2/matter_TOC_PART.png
 importance: 2
 ---
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project/topic2/2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/project/topic2/2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     Uniaxial compression of crumpled balls
 </div>
+
 
 Our research investigates the effective compressive mechanical behavior of crumpled sheet materials under uniaxial compression, combining controlled experiments with coarse-grained molecular dynamics (CG-MD) simulations. We focus on identifying how surface interactions and geometric patterning influence the macroscopic stiffness of crumpled sheets, which serve as model systems for lightweight, load-bearing materials.
 
@@ -23,23 +24,15 @@ We further examine the role of [kirigami-inspired cut patterns](https://pubs.rsc
 Overall, our work provides fundamental insights into how adhesion, patterning, and internal defect statistics control the effective modulus of crumpled sheets, offering clear guidelines for the materials-by-design of lightweight crumpled structures with tailored compressive properties.
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/publication_preview/croll2022sticky.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/publication_preview/croll2022sticky.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/publication_preview/jayawardana2023crumpled.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Cover of the article (https://doi.org/10.1016/j.matt.2022.04.029)
-</div>
-
-
-
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/publication_preview/jayawardana2023crumpled.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Cover of the article (https://doi.org/10.1039/D2SM01584F)
+    Cover of article (https://doi.org/10.1016/j.matt.2022.04.029, https://doi.org/10.1039/D2SM01584F)
 </div>
