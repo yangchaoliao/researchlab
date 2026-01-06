@@ -443,9 +443,9 @@ ninja.data = [{
             },},{id: "news-dr-yangchao-liao-has-joined-the-school-of-civil-and-environmental-engineering-at-changsha-university-of-science-and-technology-as-a-lecturer-the-new-research-group-website-is-now-officially-online-sparkles-smile",
           title: 'Dr. Yangchao Liao has joined the School of Civil and Environmental Engineering at...',
           description: "",
-          section: "News",},{id: "projects-crumpling-mechanics-and-structure-property-relationships-of-2d-sheets",
-          title: 'Crumpling mechanics and structure–property relationships of 2D sheets',
-          description: "with background image",
+          section: "News",},{id: "projects-topic-1-crumpling-behavior-of-2d-sheets",
+          title: 'Topic 1 - Crumpling behavior of 2D sheets',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/researchlab/projects/1_project/";
             },},{id: "projects-project-2",
