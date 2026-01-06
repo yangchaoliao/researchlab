@@ -1,81 +1,45 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Topic 2 - Compression mechanics of crumpled balls
+img: assets/img/project/topic2/matter_TOC_PART.png
 importance: 2
-category: work
-giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/project/topic2/2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Uniaxial compression of crumpled balls
+</div>
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Our research investigates the effective compressive mechanical behavior of crumpled sheet materials under uniaxial compression, combining controlled experiments with coarse-grained molecular dynamics (CG-MD) simulations. We focus on identifying how surface interactions and geometric patterning influence the macroscopic stiffness of crumpled sheets, which serve as model systems for lightweight, load-bearing materials.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+In our studies of [sticky crumpled matter](https://www.cell.com/matter/fulltext/S2590-2385(22)00181-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2590238522001813%3Fshowall%3Dtrue), we show that introducing surface adhesion enhances the compressive strength of crumpled sheets by nearly an order of magnitude, while leaving the governing force–compression scaling unchanged. Our simulations reveal that this strengthening effect persists down to the nanoscale and arises primarily from increased in-plane stretching of the sheet induced by adhesion, rather than from changes in large-scale folding geometry. These results establish adhesion as a robust design parameter for tuning compressive stiffness without altering fundamental scaling laws.
+
+We further examine the role of [kirigami-inspired cut patterns](https://pubs.rsc.org/en/content/articlelanding/2023/sm/d2sm01584f) on the compression response of crumpled sheets through experiments on polymeric and paper materials and CG-MD simulations of graphene. While kirigami cuts significantly reorganize the internal network of creases—modifying their orientation and spatial distribution—their influence on the effective compressive modulus remains modest. Our structural analyses indicate that macroscopic stiffness is governed mainly by the number of localized high-curvature defects, rather than by the orientation or continuity of long-range folds and ridges. These findings support a defect-based description of crumpling mechanics and clarify the limited role of crease networks in compression resistance.
+
+Overall, our work provides fundamental insights into how adhesion, patterning, and internal defect statistics control the effective modulus of crumpled sheets, offering clear guidelines for the materials-by-design of lightweight crumpled structures with tailored compressive properties.
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/publication_preview/croll2022sticky.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Cover of the article (https://doi.org/10.1016/j.matt.2022.04.029)
 </div>
+
+
+
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/publication_preview/jayawardana2023crumpled.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Cover of the article (https://doi.org/10.1039/D2SM01584F)
 </div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
