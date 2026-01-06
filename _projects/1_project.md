@@ -1,11 +1,13 @@
 ---
 layout: page
 title: Topic 1 - Crumpling behavior of 2D sheets
-img: assets/img/project/topic1/1.jpg
+img: assets/img/project/topic1/2.png
 importance: 1
 category: work
 related_publications: true
 ---
+
+Our research aims to establish a physics-based, simulation-driven understanding of how nanoscale interactions, geometry, and microstructural imperfections govern the crumpling of graphene and related 2D sheet macromolecules. Using atomistically informed coarse-grained molecular dynamics (CG-MD), we quantify how initially flat sheets evolve into hierarchical, sphere-like crumpled architectures through coupled mechanisms of edge bending, self-adhesion-driven folding, and final-stage compression. Across graphene sheets, nanoribbons, and polymer-grafted graphene, our work reveals robust power-law scaling laws linking key structural metrics (e.g., radius of gyration and hydrodynamic/viscosity radii) to controllable design variables such as sheet size, adhesion strength, aspect ratio, defect topology, and grafting density. These results provide a predictive framework for tailoring packing efficiency (via fractal descriptors), mechanical heterogeneity, and compaction resistance—enabling rational design of crumpled graphene-based matter for functional nanocomposites, coatings, and energy-related applications.
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
