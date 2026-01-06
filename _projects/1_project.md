@@ -12,19 +12,21 @@ Our research aims to establish a physics-based, simulation-driven understanding 
 ### Highlights from our published work
 <ul>
   <li>
-    `Universal crumpling regimes`: Identified three crumpling regimes dominated by edge bending, self-adhesion, and further compression, offering a mechanistic “map” of crumpling pathways.
+    Universal crumpling regimes: Identified three crumpling regimes dominated by edge bending, self-adhesion, and further compression, offering a mechanistic “map” of crumpling pathways.
   </li>
   <li>
-      Scaling and packing efficiency: Predicted fractal-like packing behavior (e.g., 
-D \approx 2.395
-2.395 for crumpled graphene) and demonstrated size-/adhesion-dependent scaling relations for structural radii.
-
-Self-adhesion as a primary control knob: Showed that adhesion can dominate crumpling energetics and strongly modulate folding motifs and final packing efficiency.
-
-Defect engineering of crumpled graphene: Revealed how reconstructed vacancy defects and Stone–Wales defects weaken self-adhesion, alter scaling behavior, increase stress/curvature heterogeneity, and promote glass-like internal structures—leading to higher resistance to compaction.
-
-Geometry and functionalization effects: Established aspect-ratio-dependent crumpling modes in graphene nanoribbons and demonstrated how polymer grafting density suppresses self-adhesion/self-folding while reducing mechanical heterogeneity in crumpled polymer-grafted graphene sheets.
-
+      Scaling and packing efficiency: Predicted fractal-like packing behavior and demonstrated size-/adhesion-dependent scaling relations for structural radii.
+  </li>
+  <li>
+    Self-adhesion as a primary control knob: Showed that adhesion can dominate crumpling energetics and strongly modulate folding motifs and final packing efficiency.
+  </li>
+  <li>
+    Defect engineering of crumpled graphene: Revealed how reconstructed vacancy defects and Stone–Wales defects weaken self-adhesion, alter scaling behavior, increase stress/curvature heterogeneity, and promote glass-like internal structures—leading to higher resistance to compaction.
+  </li>
+  <li>
+    Geometry and functionalization effects: Established aspect-ratio-dependent crumpling modes in graphene nanoribbons and demonstrated how polymer grafting density suppresses self-adhesion/self-folding while reducing mechanical heterogeneity in crumpled polymer-grafted graphene sheets.
+  </li>
+</ul>
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
