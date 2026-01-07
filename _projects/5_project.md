@@ -24,7 +24,7 @@ We study the crumpling assembly and mechanical response of thin sheets functiona
       <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/project/topic5/4.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-      <div class="col-sm-3 mt-3 mt-md-0">
+      <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/project/topic5/5.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
