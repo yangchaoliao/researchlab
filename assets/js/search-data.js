@@ -90,6 +90,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/researchlab/projects/3_project/";
+            },},{id: "projects-topic-4-molecular-dynamics-of-assembled-carbon-materials",
+          title: 'Topic 4 - Molecular dynamics of assembled carbon materials',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/researchlab/projects/4_project/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
