@@ -85,6 +85,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/researchlab/projects/2_project/";
+            },},{id: "projects-topic-3-modeling-of-microcrystalline-glass",
+          title: 'Topic 3 - Modeling of microcrystalline glass',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/researchlab/projects/3_project/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
