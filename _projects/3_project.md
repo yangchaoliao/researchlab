@@ -22,7 +22,7 @@ We pursue physics-based, microstructure-resolved modeling of glass–ceramics (G
       Phase-field (PF) modeling of nucleation and crystal growth in GCs: We develop PF frameworks to simulate microcrystal nucleation and subsequent growth under realistic thermodynamic and kinetic constraints. By tracking the spatiotemporal evolution of crystallinity and grain morphology, our models provide mechanistic insight into microstructure selection and offer quantitative guidance for tailoring crystal size distributions and degree of crystallization via processing.
   </li>
   <li>
-      Computational modeling of mechanical and optical properties of GCs: We perform microstructure-informed simulations to predict the mechanical response (e.g., elastic behavior, damage/fracture) and optical performance (e.g., light scattering and transmittance) of GCs. By explicitly linking microstructural descriptors—such as crystal size, volume fraction, and spatial arrangement—to macroscopic properties, we aim to clarify structure-property trade-offs and support performance-driven microstructure optimization.
+      Computational modeling of mechanical and optical properties of GCs: We perform microstructure-informed simulations to predict the mechanical response (e.g., elastic behavior, damage/fracture) and optical performance (e.g., light scattering and transmittance) of GCs. By explicitly linking microstructural descriptors, such as crystal size, volume fraction, and spatial arrangement, to macroscopic properties, we aim to clarify structure-property trade-offs and support performance-driven microstructure optimization.
   </li>
 </ul>
 
