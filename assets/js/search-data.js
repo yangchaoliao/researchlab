@@ -95,8 +95,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/researchlab/projects/4_project/";
-            },},{id: "projects-topic-5-molecular-dynamics-of-assembled-carbon-materials",
-          title: 'Topic 5 - Molecular dynamics of assembled carbon materials',
+            },},{id: "projects-topic-5-micro-nano-interlocks",
+          title: 'Topic 5 - Micro/nano interlocks',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/researchlab/projects/5_project/";
