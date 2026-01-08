@@ -15,6 +15,4 @@ children:
     permalink: /group_alumni/
   - title: Teaching
     permalink: /teaching/
-  - title: News
-    permalink: /news/  
 ---
