@@ -4,11 +4,7 @@ title: Home
 permalink: /
 subtitle: Department of Mechanics, School of Civil and Environmental Engineering, Changsha University of Science and Technology, Changsha 410114, PR China
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-12 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/home.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+
 
 # profile:
 #  align: right
@@ -19,6 +15,12 @@ subtitle: Department of Mechanics, School of Civil and Environmental Engineering
 #    Dr. Yangchao Liao<br>
 #    Lecturer<br>
 #    liaoyc@csust.edu.cn<br>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/home.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 # social: true # includes social icons at the bottom of the page
