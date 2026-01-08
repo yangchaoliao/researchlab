@@ -44,6 +44,13 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/researchlab/all_publications/";
               },
+            },{id: "dropdown-student-awards",
+              title: "Student Awards",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/researchlab/student_awards/";
+              },
             },{id: "dropdown-photo-gallery",
               title: "Photo Gallery",
               description: "",
