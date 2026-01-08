@@ -4,10 +4,10 @@ title: Home
 permalink: /
 subtitle: Department of Mechanics, School of Civil and Environmental Engineering, Changsha University of Science and Technology, Changsha 410114, PR China
 
-profile:
-  align: right
-  image: home_pic.png
-  image_circular: false # crops the image to make it circular
+# profile:
+#  align: right
+#  image: home_pic.png
+#  image_circular: false # crops the image to make it circular
 #  more_info: >
 #    Principal Investigator<br>
 #    Dr. Yangchao Liao<br>
