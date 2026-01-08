@@ -11,22 +11,14 @@ WeChat: 13126791177<br>
 湖南省长沙市雨花区万家丽南路2段960号长沙理工大学土木与环境工程学院A310室
 
 ### Degree Information:<br>
-<ul>
-  <li>
 2023.08, Ph.D., Civil Engineering, [North Dakota State University](https://www.ndsu.edu/), USA<br>
-Advisor: Prof. [Wenjie Xia](https://scholar.google.com/citations?user=9bfqkksAAAAJ&hl=en)
-  </li>
-  <li>
-2028.03, M.Eng, Architecture and Civil Engineering, Beihang University, China
-Advisor: Prof. Taotao Zhang
-  </li>
-  <li>
-    Bachelor of Engineering, Engineering Mechanics,
-    Changsha University of Science and Technology, China
-    (2010.09 – 2014.06)
-  </li>
-</ul>
-
+Advisor: Prof. [Wenjie Xia](https://scholar.google.com/citations?user=9bfqkksAAAAJ&hl=en)<br>
+<br>
+2028.03, M.Eng., Architecture and Civil Engineering, [Beihang University](https://ev.buaa.edu.cn/), China<br>
+Advisor: Prof. [Taotao Zhang](https://scholar.google.com/citations?hl=zh-CN&user=tgbvAV0AAAAJ&view_op=list_works&sortby=pubdate)<br>
+<br>
+2014.06, B.Eng., Engineering Mechanics, [Changsha University of Science and Technology](https://www.csust.edu.cn/ywb/Home.htm), China
+<br>
 ### Work Experience:<br>
 <ul>
   <li>
