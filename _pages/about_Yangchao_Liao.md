@@ -13,16 +13,16 @@ WeChat: 13126791177<br>
 ### Degree Information:<br>
 <ul>
   <li>
-    Doctor of Philosophy, Civil Engineering, North Dakota State University, USA
-    (2020.01 – 2023.08)
+2023.08, Ph.D., Civil Engineering, [North Dakota State University](https://www.ndsu.edu/), USA<br>
+Advisor: Prof. [Wenjie Xia](https://scholar.google.com/citations?user=9bfqkksAAAAJ&hl=en)
   </li>
   <li>
-    Master of Engineering, Architecture and Civil Engineering, Beihang University, PR China
-    (2015.09 – 2018.03)
+2028.03, M.Eng, Architecture and Civil Engineering, Beihang University, China
+Advisor: Prof. Taotao Zhang
   </li>
   <li>
     Bachelor of Engineering, Engineering Mechanics,
-    Changsha University of Science and Technology, PR China
+    Changsha University of Science and Technology, China
     (2010.09 – 2014.06)
   </li>
 </ul>
@@ -30,11 +30,11 @@ WeChat: 13126791177<br>
 ### Work Experience:<br>
 <ul>
   <li>
-    Lecturer, Department of Mechanics, School of Civil and Environmental Engineering, Changsha University of Science and Technology, PR China
+    Lecturer, Department of Mechanics, School of Civil and Environmental Engineering, Changsha University of Science and Technology, China
     (2025.12 - Present)
   </li>
   <li>
-    Postdoctoral Fellow, Department of Engineering Mechanics, Tsinghua University, PR China
+    Postdoctoral Fellow, Department of Engineering Mechanics, Tsinghua University, China
     (2023.09 - 2025.11)
   </li>
 </ul>
