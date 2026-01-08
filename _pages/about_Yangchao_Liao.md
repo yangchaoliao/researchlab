@@ -17,19 +17,12 @@ Advisor: Prof. [Wenjie Xia](https://scholar.google.com/citations?user=9bfqkksAAA
 2028.03, M.Eng., Architecture and Civil Engineering, [Beihang University](https://ev.buaa.edu.cn/), China<br>
 Advisor: Prof. [Taotao Zhang](https://scholar.google.com/citations?hl=zh-CN&user=tgbvAV0AAAAJ&view_op=list_works&sortby=pubdate)<br>
 <br>
-2014.06, B.Eng., Engineering Mechanics, [Changsha University of Science and Technology](https://www.csust.edu.cn/ywb/Home.htm), China
+2014.06, B.Eng., Engineering Mechanics, [Changsha University of Science and Technology](https://www.csust.edu.cn/ywb/Home.htm), China<br>
 <br>
 ### Work Experience:<br>
-<ul>
-  <li>
-    Lecturer, Department of Mechanics, School of Civil and Environmental Engineering, Changsha University of Science and Technology, China
-    (2025.12 - Present)
-  </li>
-  <li>
-    Postdoctoral Fellow, Department of Engineering Mechanics, Tsinghua University, China
-    (2023.09 - 2025.11)
-  </li>
-</ul>
+##### 2025.12 - Present, Lecturer, School of Civil and Environmental Engineering, Changsha University of Science and Technology, China<br>
+<br>
+### 2023.09 - 2025.11, Post-Doc, Department of Engineering Mechanics, Tsinghua University, China<br>
 
 ### Research Interests:<br>
 Multiscale mechanics, Micro-nano mechanics, Continuum mechanics, Molecular dynamics (MD), Finite element method (FEM), Two-dimensional crystal materials, Crumpling behavior, Topologically interlocked structures, Graphene-like materials, Glass-ceramic materials
