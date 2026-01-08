@@ -7,6 +7,8 @@ dropdown: true
 children:
   - title: All publications
     permalink: /all_publications/
+  - title: Student Awards
+    permalink: /student_awards/
   - title: Photo Gallery
     permalink: /photo_gallery/
   - title: Group Alumni
