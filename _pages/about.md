@@ -6,8 +6,8 @@ subtitle: Department of Mechanics, School of Civil and Environmental Engineering
 
 profile:
  align: right
- image: home_pic.png
- image_circular: false # crops the image to make it circular
+ image: csust.jpg
+ image_circular: ture # crops the image to make it circular
 #  more_info: >
 #    Principal Investigator<br>
 #    Dr. Yangchao Liao<br>
