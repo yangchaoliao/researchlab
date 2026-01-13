@@ -6,3 +6,4 @@ related_posts: false
 ---
 
 Dr. Liao was invited to deliver a general education lecture titled “Mechanics: Unlocking the Future ‘Meta-Major’” to the Class of 2025 undergraduates in the Department of Engineering Mechanics at CSUST.
+[https://www.csust.edu.cn/jwc/info/1181/7622.htm](https://www.csust.edu.cn/jwc/info/1181/7622.htm)
