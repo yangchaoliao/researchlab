@@ -72,8 +72,8 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/researchlab/teaching/";
               },
-            },{id: "news-dr-yangchao-liao-has-joined-the-school-of-civil-and-environmental-engineering-at-changsha-university-of-science-and-technology-as-a-lecturer-the-new-research-group-website-is-now-officially-online-sparkles-smile",
-          title: 'Dr. Yangchao Liao has joined the School of Civil and Environmental Engineering at...',
+            },{id: "news-dr-liao-has-joined-the-school-of-civil-and-environmental-engineering-at-changsha-university-of-science-and-technology-csust-as-a-lecturer-the-new-research-group-website-is-now-officially-online-sparkles-smile",
+          title: 'Dr. Liao has joined the School of Civil and Environmental Engineering at Changsha...',
           description: "",
           section: "News",},{id: "news-dr-liao-was-invited-to-deliver-a-general-education-lecture-titled-mechanics-unlocking-the-future-meta-major-to-the-class-of-2025-undergraduates-in-the-department-of-engineering-mechanics-at-csust",
           title: 'Dr. Liao was invited to deliver a general education lecture titled “Mechanics: Unlocking...',
