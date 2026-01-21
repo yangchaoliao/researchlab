@@ -32,5 +32,14 @@ importance:
     </div>
 </div>
 <div class="caption">
-    APS March Meeting 2022, Chicago, USA, 2022.03
+    APS March Meeting 2022 (with Dr. Amirhadi and Dr. Zhaofan), Chicago, USA, 2022.03
+</div>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/photo_gallery/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    APS March Meeting 2022 (with Prof. Andrew and Dr. Zhaofan), Chicago, USA, 2022.03
 </div>
