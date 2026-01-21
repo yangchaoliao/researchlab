@@ -4,6 +4,7 @@ title: Photo Gallery
 permalink: /photo_gallery/
 importance: 
 ---
+
 ## 2026
 <br>
 <div class="row justify-content-sm-center">
@@ -18,6 +19,7 @@ importance:
 <br>
 <br>
 <br>
+
 ## 2024 ~ 2025
 <br>
 <div class="row justify-content-sm-center">
@@ -50,6 +52,7 @@ importance:
 <br>
 <br>
 <br>
+
 ## 2023 and earlier
 <br>
 <div class="row justify-content-sm-center">
