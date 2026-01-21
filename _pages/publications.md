@@ -9,7 +9,7 @@ nav_order: 4
 
 ### [Google Scholar is available here](https://scholar.google.com/citations?user=5HUg_7gAAAAJ&hl=zh-CN&oi=ao)<br>
 
-### [All publications are here (24 publications)](https://yangchaoliao.github.io/researchlab/all_publications/)<br>
+### [All publications are here](https://yangchaoliao.github.io/researchlab/all_publications/)<br>
 
 
 ### This page features our recent representative publications.<br>
