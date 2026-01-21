@@ -54,6 +54,42 @@ importance:
 
 
 <div class="row justify-content-sm-center">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/photo_gallery/8.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+   Research group members at NDSU, Fargo, ND, USA, 2023.04
+</div>
+
+
+
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/photo_gallery/12.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    NDSU Research Day 2023 (with Prof. Xia), Fargo, ND, USA, 2023.04
+</div>
+
+
+
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/photo_gallery/13.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    APS March Meeting 2023 (with Prof. Andrew), Las Vegas, NV, USA, 2023.03
+</div>
+
+
+
+
+<div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/photo_gallery/6.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
