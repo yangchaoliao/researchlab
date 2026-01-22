@@ -57,6 +57,15 @@ importance:
 <div class="caption">
     The reunion of Prof. Zhang's research group, Beihang University, Beijing, China, 2024.05
 </div>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/photo_gallery/15.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Photo with Dr. Yang, Beijing, China, 2024.01
+</div>
 <br>
 <br>
 <br>
@@ -64,7 +73,6 @@ importance:
 
 ## 2023 and earlier
 <br>
-
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/photo_gallery/16.png" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -80,6 +88,24 @@ importance:
 </div>
 <div class="caption">
    The 9th Graphene Youth Forum, Zhejiang University, Hangzhou, China, 2023.12
+</div>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/photo_gallery/20.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+   Photo with Dr. Dawei, Fargo, ND, USA, 2023.05
+</div>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/photo_gallery/19.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+   Photo with Dr. Amara and Dr. Kamrun at NDSU, Fargo, ND, USA, 2023.06
 </div>
 
 <div class="row justify-content-sm-center">
@@ -101,12 +127,15 @@ importance:
 </div>
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-12 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/photo_gallery/13.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/photo_gallery/21.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    APS March Meeting 2023 (with Prof. Andrew), Las Vegas, NV, USA, 2023.03
+    APS March Meeting 2023 (with Prof. Andrew and Dr. Zhiqiang), Las Vegas, NV, USA, 2023.03
 </div>
 
 <div class="row justify-content-sm-center">
