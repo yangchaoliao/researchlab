@@ -5,7 +5,7 @@ nav: true
 nav_order: 6
 dropdown: true
 children:
-  - title: All publications
+  - title: All Publications
     permalink: /all_publications/
   - title: Student Awards
     permalink: /student_awards/
