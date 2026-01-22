@@ -24,6 +24,15 @@ importance:
 <br>
 <div class="row justify-content-sm-center">
     <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/photo_gallery/14.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Photo with Prof. Xu, Tsinghua University, Beijing, China, 2025.11
+</div>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-12 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/photo_gallery/2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -55,6 +64,24 @@ importance:
 
 ## 2023 and earlier
 <br>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/photo_gallery/16.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/photo_gallery/17.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="row justify-content-sm-center">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/photo_gallery/18.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+   The 9th Graphene Youth Forum, Zhejiang University, Hangzhou, China, 2023.12
+</div>
+
 <div class="row justify-content-sm-center">
     <div class="col-sm-12 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/photo_gallery/8.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
