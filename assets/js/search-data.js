@@ -38,7 +38,7 @@ ninja.data = [{
             window.location.href = "/researchlab/news/";
           },
         },{id: "dropdown-all-publications",
-              title: "All publications",
+              title: "All Publications",
               description: "",
               section: "Dropdown",
               handler: () => {
