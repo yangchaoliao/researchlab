@@ -37,7 +37,7 @@ importance:
     </div>
 </div>
 <div class="caption">
-    Postdoctoral Research Presentation, Tsinghua University, Beijing, China, 2025.11
+    Postdoctoral Research Presentation (with Prof. Xu, Prof. Wei, and Prof. Li), Tsinghua University, Beijing, China, 2025.11
 </div>
 
 <div class="row justify-content-sm-center">
