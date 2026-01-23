@@ -144,7 +144,7 @@ importance:
     </div>
 </div>
 <div class="caption">
-    The gathering with Prof Connie at NDSU, Fargo, ND, USA, 2022.10
+    The gathering with Prof. Connie at NDSU, Fargo, ND, USA, 2022.10
 </div>
 
 <div class="row justify-content-sm-center">
