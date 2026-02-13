@@ -15,9 +15,9 @@ Note: * Corresponding authors; † Equally contributed.
 
 (24) L. Wang †, Y. Liao †, J. Huang, C. Shen, L. Chen, L. Peng, K. Li, P. Li, Y. Liu, Z. Xu *, K. Pang *, Z. Xu *, and C. Gao *. “Clasping folds enable superior elastic strength of graphene films.” Nature, Submitted.<br>
 
-(23) Y. Gao †, Y. Wang †, Y. Liao †, L. Peng, D. Chang, R. Li, X. Zhao, K. Li, H. Li, M. Cao, P. Li, Y. Liu, X. Ming *, Z. Xu *, C. Gao, and Z. Xu *. “π-π stacking origin of irreversible dispersibility of graphene oxide.” Nature Communications, Submitted.<br>
+(23) C. Shen †, Y. Liao †, Y. Gao, S. Liu, X. Ye, Y. Wang, R. Guo, G. Cai, W. Zhao, M. Zhang, Z. Lin, C. Ge, C. Zhang, Z. Xu *, Y. Liu *, Z. Xu *, and C. Gao *. “Fragmented liquid crystals of graphene oxide.” Advanced Materials, Submitted.<br>
 
-(22) C. Shen †, Y. Liao †, Y. Gao, S. Liu, X. Ye, Y. Wang, R. Guo, G. Cai, W. Zhao, M. Zhang, Z. Lin, C. Ge, C. Zhang, Z. Xu *, Y. Liu *, Z. Xu *, and C. Gao *. “Fragmented liquid crystals of graphene oxide.” Advanced Materials, Submitted.<br>
+(22) Y. Gao †, Y. Wang †, Y. Liao †, L. Peng, D. Chang, R. Li, X. Zhao, K. Li, H. Li, M. Cao, P. Li, Y. Liu, X. Ming *, Z. Xu *, C. Gao, and Z. Xu *. “π-π stacking origin of irreversible dispersibility of graphene oxide.” Nature Communications, Accepted.<br>
 
 
 
