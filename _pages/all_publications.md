@@ -13,6 +13,8 @@ Note: * Corresponding authors; † Equally contributed.
 
 ### 2026<br>
 
+(25) L. Chen †, Y. Liao †, L. Liu, L. Xu, and W. Xia *. “Adhesion-dependent structural behavior of crumpled nanosheets.” International Journal of Mechanical Sciences, Submitted.<br>
+
 (24) L. Wang †, Y. Liao †, J. Huang, C. Shen, L. Chen, L. Peng, K. Li, P. Li, Y. Liu, Z. Xu *, K. Pang *, Z. Xu *, and C. Gao *. “Clasping folds enable superior elastic strength of graphene films.” Nature, Submitted.<br>
 
 (23) C. Shen †, Y. Liao †, Y. Gao, S. Liu, X. Ye, Y. Wang, R. Guo, G. Cai, W. Zhao, M. Zhang, Z. Lin, C. Ge, C. Zhang, Z. Xu *, Y. Liu *, Z. Xu *, and C. Gao *. “Fragmented liquid crystals of graphene oxide.” Matter, Submitted.<br>
