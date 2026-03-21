@@ -13,7 +13,7 @@ WeChat: 13126791177<br>
 ### Degree Information:<br>
 2023.08, Ph.D., Civil Engineering, [North Dakota State University](https://www.ndsu.edu/), USA<br>
 Advisor: Prof. [Wenjie Xia](https://scholar.google.com/citations?user=9bfqkksAAAAJ&hl=en)<br>
-2028.03, M.Eng., Architecture and Civil Engineering, [Beihang University](https://ev.buaa.edu.cn/), China<br>
+2018.03, M.Eng., Architecture and Civil Engineering, [Beihang University](https://ev.buaa.edu.cn/), China<br>
 Advisor: Prof. [Taotao Zhang](https://scholar.google.com/citations?hl=zh-CN&user=tgbvAV0AAAAJ&view_op=list_works&sortby=pubdate)<br>
 2014.06, B.Eng., Engineering Mechanics, [Changsha University of Science and Technology](https://www.csust.edu.cn/ywb/Home.htm), China
 
