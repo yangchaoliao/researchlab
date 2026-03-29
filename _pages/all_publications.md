@@ -19,7 +19,7 @@ Note: * Corresponding authors; † Equally contributed.
 
 (23) C. Shen †, Y. Liao †, Y. Gao, S. Liu, X. Ye, Y. Wang, R. Guo, G. Cai, W. Zhao, M. Zhang, Z. Lin, C. Ge, C. Zhang, Z. Xu *, Y. Liu *, Z. Xu *, and C. Gao *. “Fragmented liquid crystals of graphene oxide.” Matter, Submitted.<br>
 
-(22) Y. Gao †, Y. Wang †, [Y. Liao](https://doi.org/10.1038/s41467-026-71003-z) †, L. Peng, D. Chang, R. Li, X. Zhao, K. Li, H. Li, M. Cao, P. Li, Y. Liu, X. Ming *, Z. Xu *, C. Gao, and Z. Xu *. “π-π stacking origin of irreversible dispersibility of graphene oxide.” [Nature Communications](https://doi.org/10.1038/s41467-026-71003-z), Inpress.<br>
+(22) Y. Gao †, Y. Wang †, [Y. Liao](https://doi.org/10.1038/s41467-026-71003-z) †, L. Peng, D. Chang, R. Li, X. Zhao, K. Li, H. Li, M. Cao, P. Li, Y. Liu, X. Ming *, Z. Xu *, C. Gao, and Z. Xu *. “π-π stacking origin of irreversible dispersibility of graphene oxide.” [Nature Communications](https://doi.org/10.1038/s41467-026-71003-z), In press.<br>
 
 
 
