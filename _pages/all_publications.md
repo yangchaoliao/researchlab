@@ -19,7 +19,7 @@ Note: * Corresponding authors; † Equally contributed.
 
 (23) C. Shen †, Y. Liao †, Y. Gao, S. Liu, X. Ye, Y. Wang, R. Guo, G. Cai, W. Zhao, M. Zhang, Z. Lin, C. Ge, C. Zhang, Z. Xu *, Y. Liu *, Z. Xu *, and C. Gao *. “Fragmented liquid crystals of graphene oxide.” Matter, Submitted.<br>
 
-(22) Y. Gao †, Y. Wang †, Y. Liao †, L. Peng, D. Chang, R. Li, X. Zhao, K. Li, H. Li, M. Cao, P. Li, Y. Liu, X. Ming *, Z. Xu *, C. Gao, and Z. Xu *. “π-π stacking origin of irreversible dispersibility of graphene oxide.” Nature Communications, Accepted.<br>
+(22) Y. Gao †, Y. Wang †, [Y. Liao](https://doi.org/10.1038/s41467-026-71003-z) †, L. Peng, D. Chang, R. Li, X. Zhao, K. Li, H. Li, M. Cao, P. Li, Y. Liu, X. Ming *, Z. Xu *, C. Gao, and Z. Xu *. “π-π stacking origin of irreversible dispersibility of graphene oxide.” [Nature Communications](https://doi.org/10.1038/s41467-026-71003-z), Inpress.<br>
 
 
 
@@ -30,7 +30,7 @@ Note: * Corresponding authors; † Equally contributed.
 
 (20) [Y. Liao](https://doi.org/10.1039/D5NR00805K) †, L. Chen †, W. Xia *. “Insights into the structural features of crumpling graphene nanoribbons.” [Nanoscale](https://doi.org/10.1039/D5NR00805K), 2025, 17, 15493-15504.<br>
      
-(19) W. Dong, [Y. Liao](https://doi.org/10.1002/smll.202501171), S. Feng, S. Wang, R. Jarapanyacheep, X. Cui, J. Huang, Y. Hou, L. Liu *, Z. Xu *, Z. Zhang. “Van der Waals pinning strategy for high electrical breakdown resistance in 2D‐material electronics”. [Small](https://doi.org/10.1002/smll.202501171), 2025, 2501171.<br>
+(19) W. Dong, [Y. Liao](https://doi.org/10.1002/smll.202501171), S. Feng, S. Wang, R. Jarapanyacheep, X. Cui, J. Huang, Y. Hou, L. Liu *, Z. Xu *, Z. Zhang. “Van der Waals pinning strategy for high electrical breakdown resistance in 2D‐material electronics.” [Small](https://doi.org/10.1002/smll.202501171), 2025, 2501171.<br>
 
 
 
@@ -41,7 +41,7 @@ Note: * Corresponding authors; † Equally contributed.
      
 (17) Z. Li, Y. Wang, G. Ma, [Y. Liao](https://doi.org/10.1002/pol.20230689), X. Gu, W. Xia *. “Probing conformational properties of conjugated polymers in dilute solutions under variable solvent quality via coarse‐grained modeling.” [Journal of Polymer Science](https://doi.org/10.1002/pol.20230689), 2023, 1- 14.<br>
 
-(16) [Y. Liao](https://doi.org/10.1021/acsanm.4c00425), O.M. Palmero, A. Arshad, L. Chen, W. Xia *. “Molecular dynamics simulations of crumpling polymer grafted graphene sheets: implications for functional nanocomposites.” [ACS Applied Nano Materials](https://doi.org/10.1021/acsanm.4c00425), 2024, 7(7), 7802-7811.<br>
+(16) [Y. Liao](https://doi.org/10.1021/acsanm.4c00425), O.M. Palmero, A. Arshad, L. Chen, W. Xia *. “Molecular dynamics simulations of crumpling polymer grafted graphene sheets: Implications for functional nanocomposites.” [ACS Applied Nano Materials](https://doi.org/10.1021/acsanm.4c00425), 2024, 7(7), 7802-7811.<br>
      Note: featured on the Journal cover.<br>
 
 
@@ -51,7 +51,7 @@ Note: * Corresponding authors; † Equally contributed.
 
 (15) Y. Cao, J. Wang *, [Y. Liao](https://doi.org/10.1088/1361-6463/aceb01), L. Tang. “A comprehensive dynamic continuous model of piezoelectric stack energy harvesters under arbitrary excitation considering electrodes and protective layers.” [Journal of Physics D: Applied Physics](https://doi.org/10.1088/1361-6463/aceb01), 2023, 56(46), 464001.<br>
 
-(14) [Y. Liao](https://doi.org/10.1021/acs.nanolett.2c04771), Z. Li, L. Chen, A.B. Croll, W. Xia *. “Crumpling defective graphene sheets”, [Nano Letters](https://doi.org/10.1021/acs.nanolett.2c04771), 2023, 23(8), 3637-3644.<br>
+(14) [Y. Liao](https://doi.org/10.1021/acs.nanolett.2c04771), Z. Li, L. Chen, A.B. Croll, W. Xia *. “Crumpling defective graphene sheets.” [Nano Letters](https://doi.org/10.1021/acs.nanolett.2c04771), 2023, 23(8), 3637-3644.<br>
      Note: featured on the Journal cover.<br>
 
 (13) S. Ghazanfari, A. Alesadi, [Y. Liao](https://doi.org/10.1039/D3NA00365E), Y. Zhang, W. Xia *. “Molecular insights into the temperature and pressure dependence of mechanical behavior and dynamics of Na-montmorillonite clay.” [Nanoscale Advances](https://doi.org/10.1039/D3NA00365E), 2023, 5(20), 5449-5459.<br>
@@ -60,7 +60,7 @@ Note: * Corresponding authors; † Equally contributed.
 (12) A. Ghasemi †, [Y. Liao](https://doi.org/10.1039/D3NR00817G) †, Z. Li, W. Xia *, W. Gao *. “Crystallization and melting of polymer chains on graphene and graphene oxide.” [Nanoscale](https://doi.org/10.1039/D3NR00817G), 2023, 15(29), 12235-12244.<br>
      Note: featured on the Journal cover.<br>
      
-(11) W.M.A. Jayawardana †, [Y. Liao](https://doi.org/10.1039/D2SM01584F) †, Z. Li, W. Xia, A.B. Croll *. “Crumpled Kirigami.” [Soft Matter](https://doi.org/10.1039/D2SM01584F), 2023, 19(6), 1081-1091.<br>
+(11) W.M.A. Jayawardana †, [Y. Liao](https://doi.org/10.1039/D2SM01584F) †, Z. Li, W. Xia, A.B. Croll *. “Crumpled kirigami.” [Soft Matter](https://doi.org/10.1039/D2SM01584F), 2023, 19(6), 1081-1091.<br>
      Note: featured on the Journal cover.<br>
 
 
