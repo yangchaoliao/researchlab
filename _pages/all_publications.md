@@ -17,7 +17,7 @@ Note: * Corresponding authors; † Equally contributed.
 
 (24) C. Shen †, Y. Liao †, Y. Gao, S. Liu, X. Ye, Y. Wang, R. Guo, G. Cai, W. Zhao, M. Zhang, Z. Lin, C. Ge, C. Zhang, Z. Xu *, Y. Liu *, Z. Xu *, and C. Gao *. “Fragmented liquid crystals of graphene oxide.” Matter, Submitted.<br>
 
-(23) L. Chen †, [Y. Liao](https://doi.org/10.1016/j.ijmecsci.2026.111788) †, L. Liu, L. Xu, and W. Xia *. “Adhesion-dependent structural behavior of crumpled nanosheets.” [International Journal of Mechanical Sciences](https://doi.org/10.1016/j.ijmecsci.2026.111788), 2026, In Press.<br>
+(23) L. Chen †, [Y. Liao](https://doi.org/10.1016/j.ijmecsci.2026.111788) †, L. Liu, L. Xu, and W. Xia *. “Adhesion-dependent structural behavior of crumpled nanosheets.” [International Journal of Mechanical Sciences](https://doi.org/10.1016/j.ijmecsci.2026.111788), 2026, In press.<br>
 
 (22) Y. Gao †, Y. Wang †, [Y. Liao](https://doi.org/10.1038/s41467-026-71003-z) †, D. Chang, L. Peng, R. Li, X. Zhao, K. Li, H. Li, M. Cao, P. Li, Y. Liu, X. Ming *, Z. Xu *, C. Gao, and Z. Xu *. “π-π Stacking origin of irreversible dispersibility of graphene oxide.” [Nature Communications](https://doi.org/10.1038/s41467-026-71003-z), 2026, 17, 4529.<br>
 
