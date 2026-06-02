@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2026-03-27 00:00:00-0000
+date: 2026-06-01 00:00:00-0000
 inline: true
 related_posts: false
 ---
 
-Our collaborative paper "[π-π Stacking origin of irreversible dispersibility of graphene oxide](https://doi.org/10.1038/s41467-026-71003-z)" was published in [Nature Communications](https://doi.org/10.1038/s41467-026-71003-z)!
+Our collaborative paper "[Adhesion-dependent structural behavior of crumpled nanosheets](https://doi.org/10.1016/j.ijmecsci.2026.111788)" was published in [International Journal of Mechanical Sciences](https://doi.org/10.1016/j.ijmecsci.2026.111788)!
 
