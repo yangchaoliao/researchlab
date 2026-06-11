@@ -17,7 +17,7 @@ Note: * Corresponding authors; † Equally contributed.
 
 (24) C. Shen †, Y. Liao †, Y. Gao, S. Liu, X. Ye, Y. Wang, R. Guo, G. Cai, W. Zhao, M. Zhang, Z. Lin, C. Ge, C. Zhang, Z. Xu *, Y. Liu *, Z. Xu *, and C. Gao *. “Fragmented liquid crystals of graphene oxide.” Matter, Submitted.<br>
 
-(23) L. Chen †, [Y. Liao](https://doi.org/10.1016/j.ijmecsci.2026.111788) †, L. Liu, L. Xu, and W. Xia *. “Adhesion-dependent structural behavior of crumpled nanosheets.” [International Journal of Mechanical Sciences](https://doi.org/10.1016/j.ijmecsci.2026.111788), 2026, In press.<br>
+(23) L. Chen †, [Y. Liao](https://doi.org/10.1016/j.ijmecsci.2026.111788) †, L. Liu, L. Xu, and W. Xia *. “Adhesion-dependent structural behavior of crumpled nanosheets.” [International Journal of Mechanical Sciences](https://doi.org/10.1016/j.ijmecsci.2026.111788), 2026, 325, 111788.<br>
 
 (22) Y. Gao †, Y. Wang †, [Y. Liao](https://doi.org/10.1038/s41467-026-71003-z) †, D. Chang, L. Peng, R. Li, X. Zhao, K. Li, H. Li, M. Cao, P. Li, Y. Liu, X. Ming *, Z. Xu *, C. Gao, and Z. Xu *. “π-π Stacking origin of irreversible dispersibility of graphene oxide.” [Nature Communications](https://doi.org/10.1038/s41467-026-71003-z), 2026, 17, 4529.<br>
 
@@ -26,7 +26,7 @@ Note: * Corresponding authors; † Equally contributed.
 
 ### 2025<br>
 
-(21) [Y. Liao](https://doi.org/10.1103/lcrf-hxh4) †, W. Chen †, Z. Xu *. “Microstructure-guided glass ceramics design via physics transfer.” [Physical Review Materials](https://doi.org/10.1103/lcrf-hxh4), 2025, 9(12):123802.<br>
+(21) [Y. Liao](https://doi.org/10.1103/lcrf-hxh4) †, W. Chen †, Z. Xu *. “Microstructure-guided glass ceramics design via physics transfer.” [Physical Review Materials](https://doi.org/10.1103/lcrf-hxh4), 2025, 9(12), 123802.<br>
 
 (20) [Y. Liao](https://doi.org/10.1039/D5NR00805K) †, L. Chen †, W. Xia *. “Insights into the structural features of crumpling graphene nanoribbons.” [Nanoscale](https://doi.org/10.1039/D5NR00805K), 2025, 17, 15493-15504.<br>
      
@@ -39,7 +39,7 @@ Note: * Corresponding authors; † Equally contributed.
 
 (18) W. Nie, [Y. Liao](https://doi.org/10.1002/pc.28357), S. Ghazanfari, Y. Wang, X. Wang, Y. Huang, W. Xia *. “Insights into the thermomechanical and interfacial behaviors of polymer-clay nanocomposites via coarse-grained molecular dynamics simulations.” [Polymer Composites](https://doi.org/10.1002/pc.28357), 2024, 45(9), 8508-8526.<br>
      
-(17) Z. Li, Y. Wang, G. Ma, [Y. Liao](https://doi.org/10.1002/pol.20230689), X. Gu, W. Xia *. “Probing conformational properties of conjugated polymers in dilute solutions under variable solvent quality via coarse‐grained modeling.” [Journal of Polymer Science](https://doi.org/10.1002/pol.20230689), 2023, 1- 14.<br>
+(17) Z. Li, Y. Wang, G. Ma, [Y. Liao](https://doi.org/10.1002/pol.20230689), X. Gu, W. Xia *. “Probing conformational properties of conjugated polymers in dilute solutions under variable solvent quality via coarse‐grained modeling.” [Journal of Polymer Science](https://doi.org/10.1002/pol.20230689), 2023, 1-14.<br>
 
 (16) [Y. Liao](https://doi.org/10.1021/acsanm.4c00425), O.M. Palmero, A. Arshad, L. Chen, W. Xia *. “Molecular dynamics simulations of crumpling polymer grafted graphene sheets: Implications for functional nanocomposites.” [ACS Applied Nano Materials](https://doi.org/10.1021/acsanm.4c00425), 2024, 7(7), 7802-7811.<br>
      Note: featured on the Journal cover.<br>
