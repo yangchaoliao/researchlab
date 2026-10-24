@@ -11,6 +11,13 @@ profiles:
     content: about_Yangchao_Liao.md
     image_circular: false # crops the image to make it circular
   - align: left
+    image: 0_zeyu.png
+    content: about_0_zeyu.md
+    image_circular: false
+    more_info: >
+      Zeyu Wang<br>
+      Graduate Students<br>
+  - align: left
     image: Ms Genius.jpg
     content: about_Ms_Genius.md
     image_circular: false
